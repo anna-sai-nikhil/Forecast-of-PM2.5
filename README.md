@@ -1,4 +1,4 @@
-Here's a suggested README for your GitHub repository containing an IPython Notebook file for forecasting PM2.5 using linear regression, decision trees, and random forests:
+
 
 # PM2.5 Temporal Forecasting using Meteorological Parameters
 
